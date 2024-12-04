@@ -14,7 +14,7 @@
         <div class="wrapper">
             <header>
                 <div class="logo">
-                    <i class="fa-solid fa-c"></i>
+                    <i class="fa-solid fa-s"></i>
                     <div class="logo-text">Christine Atieno</div>
                 </div>
                 <nav>
@@ -33,7 +33,7 @@
                 </nav>
             </header>            <div class="container">
                  <div class="hero-pic">
-                    <img src="image/0Q4A4418 (1).jpg" alt="profile pic">
+                    <img src="image" alt="profile pic">
                  </div>
                  <div class="hero-text">
                     <h5>Hi I'm <span class="input">Code Newbie</span></h5>
